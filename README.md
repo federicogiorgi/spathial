@@ -1,4 +1,4 @@
-# spathial - an R package to define paths in data space
+# spathial - an R package to define paths in Transcriptomic data
 
 _spathial_ (/ˈspeɪʃ(ə)l/) is an R package which implements the algorithm by Ferrarotti et al., (PMID 30596587) to discover principal paths in data space.
 
